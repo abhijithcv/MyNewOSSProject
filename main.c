@@ -4,7 +4,7 @@ int main(void){
 
 	//prints "Hello World"
 	printf("Hello World");
-	return 1;
+	return 0;
 
 }
 
