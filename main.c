@@ -8,7 +8,8 @@ int main(void){
 
 }
 
-void doNothing(void){
-
+int doNothing(void){
+	
+	return 0;
 
 }
