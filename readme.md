@@ -1,3 +1,4 @@
-#About this project
-
-This is a hello world project
+# MyNewOSSProject
+line 1
+line 2
+line 3
